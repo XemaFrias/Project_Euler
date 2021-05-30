@@ -1,2 +1,2 @@
-# Description
-Repository to store different activities of project Euler
+# Repository to store different activities of project Euler
+My purpose is to find a solution for some of this problems. It may not be the optimal one because I will try to obtain the solutions on my own
